@@ -4,6 +4,7 @@ maven-repo
 maven repository
 
 To use this repository add to your pom.xml:
+
 *** NOTE*** during downloading of project, maven will tell you that checksum validation failed. No worries.
 
         <repositories>
