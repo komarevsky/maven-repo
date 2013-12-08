@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.freebetbot</groupId>
+  <artifactId>betfair-provider</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20131208.110400</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20131208110400</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.0-20131208.110400-1</value>
+        <updated>20131208110400</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.0-20131208.110400-1</value>
+        <updated>20131208110400</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
